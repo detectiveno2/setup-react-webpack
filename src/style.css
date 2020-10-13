@@ -1,0 +1,19 @@
+main {
+  min-height: 90vh;
+  position: relative;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  line-height: 3rem;
+  color: rgb(48, 48, 48);
+
+  margin: 0;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
