@@ -6,6 +6,7 @@ function App() {
     <main>
       <p>
         Hello, this is basic React setup with Webpack by Nguyen Cong Nhat Thien
+        My env variable is {process.env.EXAMPLE}
       </p>
     </main>
   );
